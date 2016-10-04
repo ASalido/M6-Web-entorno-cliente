@@ -1,0 +1,21 @@
+ctrl + shift + a == seleciona todo el contenido.
+ctrl + shift + p == seleciona package.
+ctrl + shift + n == nueva pagina.
+ctrl + shift + d == Selecion multiple.
+ctrl + shift + k == Borrar linea.
+alt + shift + 2,3 == abrir ventanas simultaneas.
+ctrl + shift + M == Selecionar el contenido de la funcion.
+
+html:5 + crtl + e
+lorem + crtl + e
+div*5 + crtl + e
+div#capital + crtl + e
+div.capital + crtl + e
+div#container>ul.menu>li*5 +crtl + e
+div+img +crtl + e
+
+div{capa1} + crtl +e
+
+Llaves es contenido
+
+Un div con tres parrafos dentro cuyo contenido es sublime
